@@ -19,7 +19,7 @@ def long_planeteer_calls(long_planeteer_calls)# code an argument here
   if call.length > 4
     true
   end
-    
+
 end
 
 def find_the_cheese# code an argument here
